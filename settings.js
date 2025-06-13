@@ -71,7 +71,7 @@ LINK_WHITELIST: "youtube.com,github.com",
           OWNER_NUMBER: process.env.OWNER_NUMBER || "254745431734",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "No_SenseTech.Inc @changawa",
+OWNER_NAME: process.env.OWNER_NAME || "@itschangawa™",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ @changawa*",
@@ -88,13 +88,13 @@ OWNER_NAME: process.env.OWNER_NAME || "No_SenseTech.Inc @changawa",
             ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "true",
 // make anti link true,false for groups 
 
-            AUTO_VOICE: process.env.AUTO_VOICE || "true",
+            AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
 
         AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
 
-              AUTO_REPLY: process.env.AUTO_REPLY || "true",
+              AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
 
         ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
