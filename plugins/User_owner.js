@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
+Project Name : CHANGAWA_XMD
+Creator      : Malvin  ( Mr Lord Malvin )
 Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Support      : wa.me/254745431734
 */
 
 
